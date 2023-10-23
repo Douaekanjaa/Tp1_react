@@ -2,7 +2,7 @@
 
 
 A modern and user-friendly web-based calculator application built using React. 💻
-<a href="https://douaekanjaa.github.io/Tp1_react/">Click here To try it!</a>
+<a href="https://douaekanjaa.github.io/Tp1_react/">Click here To try it!</a> <br>
 <img src="screenshot.png" alt="Calculator App Screenshot" width="210" height="280">
 
 ## Overview
