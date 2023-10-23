@@ -1,8 +1,8 @@
-# <a href="https://douaekanjaa.github.io/Tp1_react/">Calculator App <img src="./public/logo1.png" alt="logo" width="30" height="35"> </a>
+# Calculator App <img src="./public/logo1.png" alt="logo" width="30" height="35">
 
 
 A modern and user-friendly web-based calculator application built using React. 💻
-
+<a href="https://douaekanjaa.github.io/Tp1_react/">Click here To try it!</a>
 <img src="screenshot.png" alt="Calculator App Screenshot" width="210" height="280">
 
 ## Overview
@@ -27,12 +27,3 @@ The Calculator App is a user-friendly web application developed with React. It p
 ## Author 👩‍💻
 
 - Kanjaa Douae
-
-## How to Use 📝
-
-1. Clone this repository to your local machine.
-2. In the project directory, run `npm install` to install the necessary dependencies.
-3. Run `npm start` to start the development server.
-4. Open your web browser and visit `http://localhost:3000` to use the Calculator App.
-
-Enjoy fast and efficient calculations with our user-friendly Calculator App! 😊
