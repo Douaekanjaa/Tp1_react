@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Douaekanjaa/Tp1_react.git/static/css/main.ef2a56f0.css",
+    "main.js": "/Douaekanjaa/Tp1_react.git/static/js/main.1ea84ae2.js",
+    "static/js/787.7f320c1d.chunk.js": "/Douaekanjaa/Tp1_react.git/static/js/787.7f320c1d.chunk.js",
+    "static/media/logo.svg": "/Douaekanjaa/Tp1_react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Douaekanjaa/Tp1_react.git/index.html",
+    "main.ef2a56f0.css.map": "/Douaekanjaa/Tp1_react.git/static/css/main.ef2a56f0.css.map",
+    "main.1ea84ae2.js.map": "/Douaekanjaa/Tp1_react.git/static/js/main.1ea84ae2.js.map",
+    "787.7f320c1d.chunk.js.map": "/Douaekanjaa/Tp1_react.git/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2a56f0.css",
+    "static/js/main.1ea84ae2.js"
+  ]
+}
